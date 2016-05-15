@@ -1,0 +1,7 @@
+{
+  "firebaseConfig": {
+    "uri": "https://icelandic-tv-sched.firebaseio.com",
+    "user": "someuserthathaswriteaccess",
+    "password": "someawsomepass"
+  }
+}
